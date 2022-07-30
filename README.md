@@ -14,7 +14,7 @@ This project used TMDb movie Dataset that contains about 10,000 movies collected
 
 
 ## **Questions to be answered**
-1- Which movies is most movies produced?
+1- Which year is most movies produced?
 
 2- Who are the top actors, directors and top movie genre?
 
